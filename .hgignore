@@ -1,0 +1,4 @@
+syntax: glob
+*.class
+dist\FRCUserProgram.jar
+sysProps.xml
